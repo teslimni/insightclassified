@@ -1,0 +1,27 @@
+
+/* Badges
+----------------------------------------------- */
+
+.badge {
+	font-weight: 600;
+}
+
+.badge.secondary {
+	background: $secondary-color;
+}
+
+.badge.info {
+	background: $info-color;
+}
+
+.badge.success {
+	background: $success-color;
+}
+
+.badge.warning {
+	background: $warning-color;
+}
+
+.badge.alert {
+	background: $alert-color;
+}
